@@ -14,10 +14,6 @@ body {
     margin: 0 auto;
 }
 
-h1 {
-    font-family: 'Rock salt', 'Bradley Hand', cursive';
-}
-
 header {
     display: grid;
     grid-template-columns: auto 1fr;
